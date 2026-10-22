@@ -2,50 +2,27 @@
 
 **网页版地址：****[纸鸢下载地址](https://mybt.kiteyuan.info/)** **APP版地址：关注微信公众号【纸鸢花的小屋】回复【纸鸢下载】关键词获取。**
 
-#### 一、账号注册/登录
+1. 网盘内支持磁力、电驴（成熟）以及第三方分享链接转存，目前由于第三方转存测试和反馈数据不足，第三方转存功能上还不完善。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/4378e2ed-08b7-49bf-9ae9-39575b410165" />
 
-项目工具需要登录使用
+2. 工具已支持完整的网盘基础功能，用户可在新建文件夹、迁移和重命名等一系列文件操作。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/edf9f9ca-fd0c-486d-9c54-8807982a6eb1" />
 
-<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/f9800e1f-3ef7-4b27-bd77-0804fa834ebd" />
+3. 任务列表信息迁移至小浮窗内，用户操作对象逐渐转向网盘内文件交互，更加自定义和网盘化。成功转存的任意文件也支持一系列文件操作。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/72b61c1f-ca08-4b7f-806b-e2475b227a3f" />
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/82761f30-392c-41e4-9e13-4c2426994c4a" />
 
+4. 在线播放底层重构大优化，大陆用户延迟更低播放更稳。播放器底层框架更换，交互行为更贴合现有视频播放器的通用交互。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/eca20a55-1b4c-4a8e-ad06-2574266cd98e" />
 
-跳转后进入新页面，点击右上角图标可调整语言。未注册的小伙伴可以点击"没有账号？立即注册"
+5. 新增【回收站】机制，因为操作误删的文件可在回收站内进行恢复，注意【回收站】的文件仍会占用网盘空间，除非在回收站内彻底清除。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/aab15b38-bd5b-4e2d-9bd1-239557d2e8b4" />
 
-<img width="1280" height="589" alt="image" src="https://github.com/user-attachments/assets/94c11f1f-1f1d-4eaa-a038-49e8c6bd7b20" />
+6. 工具已支持用户上传头像和修改昵称。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/58734a04-34fb-47a2-9e1a-f2b2184859d5" />
 
+7. 【我的积分】不再以弹窗的形式展示，更加直观和易操作。用户可通过签到任务获取积分免费兑换会员权益。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/02f9ed33-9cd0-4ad2-a243-9c4c7ebde3c6" />
 
-注册方式支持邮箱验证码注册，目前只支持QQ邮箱和Gmail邮箱，注册成功后会自动登录返回。
-
-<img width="1280" height="615" alt="image" src="https://github.com/user-attachments/assets/3e41ad43-4a96-42a6-9980-6461510dc9e3" />
-
-
-
-#### 二、积分获取
-
-积分可通过每日签到免费获取，足额积分可兑换相关服务。
-
-<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/41b65da4-2f2c-4359-b4da-b7be41abf785" />
-
-
-<img width="1280" height="650" alt="image" src="https://github.com/user-attachments/assets/bf153885-98c7-412b-baf3-d7e70249993f" />
-
-
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/342bf3b1-6fa3-42ae-a24b-a85ebc3c9934" />
-
-#### 三、磁力任务
-
-用户可键入任意磁力链接，任务成功后即可单击打开相关文件夹，视频/图片文件点击即可直接播放/浏览。
-
-<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/1270baca-1d82-4408-95d4-a95f6ebfcccb" />
-
-
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/0985cdcf-3088-4290-a82d-300142f7d3e1" />
-
-
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/0a96bd4d-fe33-411f-b34b-10ce2da44d73" />
-
-
-<img width="1280" height="648" alt="image" src="https://github.com/user-attachments/assets/cbf2f124-5314-49e5-aae6-c128b9e0596a" />
-
-
-<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/6485f93a-96c0-4ad7-8d4c-edaf6ef2d509" />
+8. 网盘新版本的最新功能同步至MCP工具，用户可通过AI Agent助手（接入mcp之后）完成在【纸鸢网盘】内的任何操作。
+<img width="1280" height="649" alt="image" src="https://github.com/user-attachments/assets/9bde71e9-4f85-4324-bb55-f053ac273f03" />
